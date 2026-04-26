@@ -4,7 +4,7 @@
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=shutsuensha&theme=graywhite&show_icons=tru&hide_border=true&cache_seconds=21600" />
 </a>
 
-<--! <div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
 </div>
 <table>
@@ -136,4 +136,4 @@
   <a href="mailto:dankupr21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p> !-->
+</p> --!>
